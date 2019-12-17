@@ -1,0 +1,9 @@
+BOOTPROTO=dhcp
+DEVICE=eth1
+HWADDR=fa:16:3e:64:0a:21
+MTU=1450
+ONBOOT=yes
+TYPE=Ethernet
+USERCTL=no
+NAME="System eth1"
+
